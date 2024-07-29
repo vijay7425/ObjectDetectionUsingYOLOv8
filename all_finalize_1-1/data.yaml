@@ -1,0 +1,39 @@
+names:
+- AC
+- Bathtub
+- Bed
+- Bed Frame
+- Closet
+- Cupboard
+- Desk
+- Dining Table
+- Dish Washer
+- Door
+- Exhaust Fan
+- Exhaust Hood
+- Faucet
+- Fridge
+- Microwave
+- Oven
+- Sink
+- Sofa
+- Stove
+- TV
+- Thermo Ventilator
+- Toilet
+- Toilet Sink
+- Washing Machine
+- Water Cubicle
+- Water Heater
+- Windowsill
+nc: 27
+roboflow:
+  license: CC BY 4.0
+  project: all_finalize_1
+  url: https://universe.roboflow.com/so-d4hcz/all_finalize_1/dataset/1
+  version: 1
+  workspace: so-d4hcz
+test: ../test/images
+train: C:/Users/Vijay Singh Chouhan/Desktop/ObjectDetection/all_finalize_1-1/train/images
+val: C:/Users/Vijay Singh Chouhan/Desktop/ObjectDetection/all_finalize_1-1/valid/images
+
