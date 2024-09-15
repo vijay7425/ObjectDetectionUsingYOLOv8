@@ -25,7 +25,7 @@ To get started with this project, follow these steps:
 
 ```
 git clone https://github.com/vijay7425/ObjectDetectionUsingYOLOv8.git
-cd indoor-object-detection
+cd ObjectDetectionUsingYOLOv8
  ```
 
 ## Create a virtual environment and activate it:
