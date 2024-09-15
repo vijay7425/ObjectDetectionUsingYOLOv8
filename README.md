@@ -24,7 +24,7 @@ To get started with this project, follow these steps:
 
 
 ```
-git clone https://github.com/your-username/indoor-object-detection.git
+git clone https://github.com/vijay7425/ObjectDetectionUsingYOLOv8.git
 cd indoor-object-detection
  ```
 
